@@ -1,0 +1,19 @@
+# Ruby/Gem related
+/.bundle/
+/.yardoc
+/_yardoc/
+/doc/
+/pkg/
+/tmp/
+/.yardoc
+/_yardoc/
+
+# Allow testing multiple versions of dependecies
+Gemfile.lock
+.ruby-version
+.tool-versions
+
+# Testing related
+/spec/examples.txt
+/spec/reports/
+/coverage/
